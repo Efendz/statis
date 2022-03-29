@@ -1,0 +1,100 @@
+html{
+  position: relative;
+}
+
+body{
+  background-color: #fcf2de;
+  
+}
+
+section{
+  min-height: 600px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+
+
+.logo{
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border: 5px solid #fff;
+}
+
+.header{
+  height: 400px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  background-image: url('Gambar/bgImg.jpg');
+  background-attachment: fixed;
+  background-position: 0 -70px;
+}
+
+.header{
+   color: #fff;
+}
+
+.deskripsi{
+  margin-top: 20px;
+  background-color: #fcf2de;
+  text-align: justify;
+}
+
+.sejarah{
+  margin-top: 20px;
+  background-color: ;
+  text-align: justify;
+}
+
+.kontak{
+  margin: 20px 20px 80px 20px;
+  background-color: ;
+}
+
+.footer{
+  background-color: #000;
+  padding: 40px;
+  color: #eaeaea;
+}
+
+.gmbrDeskripsi{
+  display: block;
+  margin: 10px 20px 20px 20px;
+  height: 300px;
+  width: 300px;
+  float: left;
+}
+
+.gmbrSejarah{
+  display: block;
+  margin: 10px 20px 20px 20px;
+  height: 300px;
+  width: 300px;
+  float: left;
+}
+
+.img-kontak{
+  height: 50px;
+  width: 50px;
+  filter: grayscale(100%);
+}
+
+.galeri h3{
+  text-align: center;
+  font-family: Georgia, Sans-Serif;
+}
+
+.hubungi{
+  color: #eaeaea;
+}
+
+.judul{
+  font-family: Georgia, Serif;
+}
+
+p{
+  font-family: Verdana, Sans-Serif;
+}
+
